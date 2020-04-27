@@ -1,0 +1,12 @@
+1,Last Summer Whisper,Anri,302,Anri,05.04.1982,Heaven Beach,Pop
+2,March of the Dogs,Sum 41,189,Sum 41,24.07.2007,Underclass Hero,Punk Rock
+3,Andromeda,Gorillaz,242,Gorillaz,18.06.2017,Humanz,Electronica
+4,Plastic Love,Mariya Takeuchi,447,Mariya Takeuchi,13.02.2001,Variety,Pop
+5,The Jester,Sum 41,148,Sum 41,24.07.2007,Underclass Hero,Punk Rock
+6,Lonely Driving,Anri,413,Anri,05.04.1982,Heaven Beach,Pop
+7,Walking Disaster,Sum 41,276,Sum 41,24.07.2007,Underclass Hero,Punk Rock
+8,So Long Goodbye,Sum 41,241,Sum 41,24.07.2007,Underclass Hero,Punk Rock
+9,One Night Stand,Mariya Takeuchi,214,Mariya Takeuchi,13.02.2001,Variety,Pop
+10,We Got the Power,Gorillaz,131,Gorillaz,18.06.2017,Humanz,Electronica
+11,Early Mornings,eevee,123,eevee,11.05.2019,beat tape 09,Lo-fi
+12,Belas,eevee,181,eevee,24.11.2017,Seeds ep,Lo-fi
